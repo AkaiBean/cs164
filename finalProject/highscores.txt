@@ -1,0 +1,3 @@
+tester	14
+1	12
+akai	8
